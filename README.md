@@ -11,7 +11,7 @@ Visual Studio Code (Text Editor) | https://code.visualstudio.com/download
 CodeIgniter | https://codeigniter.com/download
  Postman | https://www.postman.com/downloads/
 
-## Persiapan
+##  Implementasi
 
 1.  Mendownload repository ini dan simpan ke dalam folder htdocs anda. Jangan lupa memberi nama folder project ini, contoh : REST_CI
 2.  Mengakses link _[http://localhost/REST_CI/](http://localhost/REST_CI/)_  menggunakan browser anda, maka akan muncul halaman Welcome to CodeIgniter.
